@@ -1,6 +1,11 @@
 # Windows-sports-app
 Windows app using Python's de-facto standard GUI (Graphical User Interface) package.
 
+#### Python packages used
+* Python==3.6.7
+* PyInstaller==3.4
+* Tkinter==8.6
+
 #### How to use
 * Clone the repository.
 * Navigate to the Windows-sports-app folder inside the main repository.
@@ -8,6 +13,7 @@ Windows app using Python's de-facto standard GUI (Graphical User Interface) pack
 ```
 python winapp.py
 ```
+* Alternatively, run .exe file from \Windows Sports app\dist\winapp.exe
 
 ##### Note
 * This app uses scraping data from the internet.
