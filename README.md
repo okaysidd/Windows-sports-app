@@ -19,3 +19,4 @@ python winapp.py
 * This app uses scraping data from the internet.
 * The app uses the **espn_scrape.py** file for getting the data about the football matches from the [ESPN India](http://www.espn.in/) website. All credit and responsibility (for correctness) for the data goes to the website.
 * This app is a weekend project/ practice/ learning experience. I do not wish to make use of the data I get from ESPN website for any commercial use.
+ - ![Main screen - the app does look pretty ugly](https://github.com/okaysidd/Windows-sports-app/blob/master/Screenshots/1.JPG)
